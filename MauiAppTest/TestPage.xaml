@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls:ContentPage  xmlns:controls="http://schemas.microsoft.com/dotnet/2021/maui" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiAppTest.TestPage">
+    <controls:ContentPage.Content>
+        <controls:StackLayout>
+            <controls:Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </controls:StackLayout>
+    </controls:ContentPage.Content>
+</controls:ContentPage>

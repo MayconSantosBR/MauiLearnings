@@ -1,0 +1,1 @@
+C:\Users\mico_\source\repos\MauiAppTest\MauiAppTest\MauiAppTest.csproj;x64

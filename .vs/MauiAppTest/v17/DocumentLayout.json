@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\mauiapptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\mauiapptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\phonewordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\phonewordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\phonewordpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\phonewordpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\mainpageold.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\mainpageold.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\mainpageold.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\mainpageold.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\helpers\\phonewordtranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\helpers\\phonewordtranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|c:\\users\\mico_\\source\\repos\\mauiapptest\\mauiapptest\\testpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{261B56D6-D5FD-44C4-94B1-5A82FA4E3DCD}|MauiAppTest\\MauiAppTest.csproj|solutionrelative:mauiapptest\\testpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\App.xaml",
+              "RelativeDocumentMoniker": "MauiAppTest\\App.xaml",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\App.xaml",
+              "RelativeToolTip": "MauiAppTest\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T00:01:14.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhonewordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\PhonewordPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppTest\\PhonewordPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\PhonewordPage.xaml.cs",
+              "RelativeToolTip": "MauiAppTest\\PhonewordPage.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T22:36:44.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhonewordPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\PhonewordPage.xaml",
+              "RelativeDocumentMoniker": "MauiAppTest\\PhonewordPage.xaml",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\PhonewordPage.xaml",
+              "RelativeToolTip": "MauiAppTest\\PhonewordPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-26T22:27:17.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiAppTest.csproj",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\MauiAppTest.csproj",
+              "RelativeDocumentMoniker": "MauiAppTest\\MauiAppTest.csproj",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\MauiAppTest.csproj",
+              "RelativeToolTip": "MauiAppTest\\MauiAppTest.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T22:22:29.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppTest\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\App.xaml.cs",
+              "RelativeToolTip": "MauiAppTest\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:00:39.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPageOld.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\MainPageOld.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppTest\\MainPageOld.xaml.cs",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\MainPageOld.xaml.cs",
+              "RelativeToolTip": "MauiAppTest\\MainPageOld.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:24:00.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\TestPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppTest\\TestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\TestPage.xaml.cs",
+              "RelativeToolTip": "MauiAppTest\\TestPage.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:17:00.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhonewordTranslator.cs",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\Helpers\\PhonewordTranslator.cs",
+              "RelativeDocumentMoniker": "MauiAppTest\\Helpers\\PhonewordTranslator.cs",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\Helpers\\PhonewordTranslator.cs",
+              "RelativeToolTip": "MauiAppTest\\Helpers\\PhonewordTranslator.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAhwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T22:23:36.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MauiAppTest\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\AppShell.xaml",
+              "RelativeToolTip": "MauiAppTest\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-24T00:03:37.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPageOld.xaml",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\MainPageOld.xaml",
+              "RelativeDocumentMoniker": "MauiAppTest\\MainPageOld.xaml",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\MainPageOld.xaml",
+              "RelativeToolTip": "MauiAppTest\\MainPageOld.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T00:24:13.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiAppTest\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\MauiProgram.cs",
+              "RelativeToolTip": "MauiAppTest\\MauiProgram.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:03:00.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppTest\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\AppShell.xaml.cs",
+              "RelativeToolTip": "MauiAppTest\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:59:09.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\TestPage.xaml",
+              "RelativeDocumentMoniker": "MauiAppTest\\TestPage.xaml",
+              "ToolTip": "C:\\Users\\mico_\\source\\repos\\MauiAppTest\\MauiAppTest\\TestPage.xaml",
+              "RelativeToolTip": "MauiAppTest\\TestPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-23T23:16:15.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
